@@ -17,7 +17,8 @@ Trying out and fine-tuning a variety of Machine Learning models to get the best 
 * Try and fine-tune ML models for the best outcome
 
 ## Deliverables
-**Google Colab Notebook** is found [here]().
+The **Google Colab Notebook** for trying out different ML algorithms is found [here](https://github.com/Cintia0528/Project-6-Supervised-Machine-Learning---Classification/blob/1c9d84d012a3df27d01b413010a3be04dec79acf/5_b_Housing_Model_Selection_.ipynb).
+Further Machine Learning experimentation with LazyPredict and VotingClassifier is found [here](in progress), with a supporting Medium article [here](in progress).
 
 ## Skills & Tools
 1. Data Reading & Cleaning 
