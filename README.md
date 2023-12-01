@@ -18,7 +18,7 @@ Trying out and fine-tuning a variety of Machine Learning models to get the best 
 
 ## Deliverables
 The **Google Colab Notebook** for trying out different ML algorithms is found [here](https://github.com/Cintia0528/Project-6-Supervised-Machine-Learning---Classification/blob/1c9d84d012a3df27d01b413010a3be04dec79acf/5_b_Housing_Model_Selection_.ipynb).
-Further Machine Learning experimentation with LazyPredict and VotingClassifier is found [here](in progress), with a supporting Medium article [here](in progress).
+Further Machine Learning experimentation with LazyPredict and VotingClassifier is found [here]([in progress](https://github.com/Cintia0528/Project-6-Supervised-Machine-Learning--Classification-/blob/aa13379741c4444573b21000712825789fd7ef70/5_c_Housing_Model_Selection_LazyPredict%20(1).ipynb)), with a supporting Medium article [here]([in progress](https://medium.com/@ubp0528/another-ml-puzzle-decoding-the-factors-behind-expensive-homes-a6f096aa91e1).
 
 ## Skills & Tools
 1. Data Reading & Cleaning 
@@ -28,6 +28,8 @@ Further Machine Learning experimentation with LazyPredict and VotingClassifier i
 5. Fine Tuning
 6. Error Analysis
 
-## In Progress
-1. Perfecting the model with lazy predict
-2. Voting Classifier
+## Further Analysis
+1. Perfecting the model with Lazy predict
+2. Pooling individual models' strength with Voting Classifier
+
+Note: In the notebook the Lazypredict + VotingClassifier combo gave us approximately 95%, but when applied to brand new dataset via a Streamlit application it had the highest accuracy with over 97%.  
